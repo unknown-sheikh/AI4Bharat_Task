@@ -5,7 +5,7 @@ This application allows a user to enter an article title on Wikipedia. The appli
 ##  How to Run Locally 
 
 * Clone the repository 
-'https://github.com/unknown-sheikh/AI4Bharat_Task.git'
+'git clone https://github.com/unknown-sheikh/AI4Bharat_Task.git'
 
 * Install dependencies
 
